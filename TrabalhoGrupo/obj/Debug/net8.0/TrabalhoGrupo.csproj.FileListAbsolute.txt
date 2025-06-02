@@ -1,0 +1,4 @@
+C:\Users\430642624\Downloads\TrabalhoGrupo\obj\Debug\net8.0\TrabalhoGrupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\430642624\Downloads\TrabalhoGrupo\obj\Debug\net8.0\TrabalhoGrupo.AssemblyInfoInputs.cache
+C:\Users\430642624\Downloads\TrabalhoGrupo\obj\Debug\net8.0\TrabalhoGrupo.AssemblyInfo.cs
+C:\Users\430642624\Downloads\TrabalhoGrupo\obj\Debug\net8.0\TrabalhoGrupo.csproj.CoreCompileInputs.cache
