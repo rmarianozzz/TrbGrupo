@@ -1,0 +1,14 @@
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\bin\Debug\net9.0\Ead.exe
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\bin\Debug\net9.0\Ead.deps.json
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\bin\Debug\net9.0\Ead.runtimeconfig.json
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\bin\Debug\net9.0\Ead.dll
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\bin\Debug\net9.0\Ead.pdb
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\Ead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\Ead.AssemblyInfoInputs.cache
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\Ead.AssemblyInfo.cs
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\Ead.csproj.CoreCompileInputs.cache
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\Ead.dll
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\refint\Ead.dll
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\Ead.pdb
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\Ead.genruntimeconfig.cache
+C:\Users\ediso\Documents\Conteudos Senai\Senai\Ead\obj\Debug\net9.0\ref\Ead.dll
