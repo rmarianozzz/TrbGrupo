@@ -29,7 +29,7 @@ namespace Ead
             };
 
             alunos.Add(aluno);
-            Console.WriteLine("Aluno adicionado com sucesso!\n");
+            Console.WriteLine("Aluno adicionado com sucesso!");
         }
 
         public static void RemoverAluno(string nome)
@@ -39,17 +39,17 @@ namespace Ead
             if (aluno != null)
             {
                 alunos.Remove(aluno);
-                Console.WriteLine("Aluno removido com sucesso!\n");
+                Console.WriteLine("Aluno removido com sucesso!");
             }
             else
             {
-                Console.WriteLine("Aluno não encontrado.\n");
+                Console.WriteLine("Aluno não encontrado.");
             }
         }
 
         public static void ListarAlunos()
         {
-            Console.WriteLine("\n--- Lista de Alunos ---");
+            Console.WriteLine("--- Lista de Alunos ---");
 
             foreach (Aluno aluno in alunos)
             {
@@ -87,11 +87,11 @@ namespace Ead
                 aluno.Idade = idadeNova;
                 aluno.Curso = novoCurso;
 
-                Console.WriteLine("Aluno atualizado com sucesso!\n");
+                Console.WriteLine("Aluno atualizado com sucesso!");
             }
             else
             {
-                Console.WriteLine("Aluno não encontrado.\n");
+                Console.WriteLine("Aluno não encontrado.");
             }
         }
 
